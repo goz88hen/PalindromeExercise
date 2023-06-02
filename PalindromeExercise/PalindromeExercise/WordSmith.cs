@@ -5,7 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PalindromeExerciseTests
+namespace PalindromeExercise
 {
     public class WordSmith
     {

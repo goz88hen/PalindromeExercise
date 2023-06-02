@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace PalindromeExerciseTests
+namespace PalindromeExercise
 {
     public class WordSmith_Test
     {
